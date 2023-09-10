@@ -19,15 +19,15 @@ Before you begin, ensure you have met the following requirements and specificati
 
 ## Requirements
 
-numpy
-matplotlib
-kivy
-torch
+1. numpy
+2. matplotlib
+3. kivy
+4. torch
 
 ## Specification
 
-Python 3.8.5
-torch 1.9.0+cu102
+1. Python 3.8.5
+2. torch 1.9.0+cu102
 
 ### Installation
 
